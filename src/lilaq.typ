@@ -51,6 +51,8 @@
 )
 
 
+#import "algorithm/adaptive-sample.typ": adaptive-sample
+
 #import "logic/scale.typ"
 #import "logic/tick-locate.typ" as tick-locate: (
   datetime as locate-ticks-datetime, linear as locate-ticks-linear, log as locate-ticks-log,
